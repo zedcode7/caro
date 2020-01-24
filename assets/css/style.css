@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.card_cnt{
+    height: 95vh;
+    background: #444244;
+    margin: 0 .1rem;
+    padding: 0 0;
+    
+}
+.top_half{
+    background: #ccc;
+    height: 60%;
+    padding-top: 1rem ;
+}
+.bottom_half{
+    height:40%;
+}
+.img_numb{
+    background: #994799;
+    height: 40%;
+    border-radius: 50%;
+    padding: 1rem;
+    width: 70%;
+    color: #ffffff;
+    font-size: 1.5em;
+     text-transform: uppercase;
+     margin: auto auto;
+     text-align: center;
+
+
+}
+.map{
+    height: 40%;
+    width: 90%;
+    padding: 1rem;
+}
+.map img{
+    height: 100%;
+    width: 60%;
+   
+}
+.amount {
+    height: 20%;
+    width: 100%;
+
+}
+.amount img{
+    height: 100%;
+    width: 100%;
+}
+.rank{
+    width: 80%;
+    margin: 0.5rem  auto;
+    text-align: center;
+    padding: .4rem .5rem;
+    background: #994799;
+    color: #ffffff;
+    font-weight: bold;
+    border-radius: 2%;
+    border: 1px solid #888888;
+    height: 20%;
+
+}
+.name_ofcountry{
+    background: #ccc;
+    border: 1px solid #444244;
+    text-align: center;
+    height: 20%;
+}
+.flag{
+    height: 60%;
+}
+.flag img{
+    height: 100%;
+    width: 100%;
+}
+.wow{
+    animation-delay: .4s;
+}
+.middle{
+
+    
+
+}
